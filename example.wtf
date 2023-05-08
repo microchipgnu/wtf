@@ -1,5 +1,0 @@
-create("luis", "hey")
-display(luis)
-create("something", "new")
-create("what", something)
-display(what)

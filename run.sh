@@ -1,1 +1,1 @@
-deno run --allow-read index.ts "$(cat example.wtf)"
+deno run --allow-read ./src/index.ts "$(cat ./examples/example.wtf)"
